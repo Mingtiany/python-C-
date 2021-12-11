@@ -1,0 +1,15 @@
+﻿  main.cpp
+main.obj : error LNK2001: 无法解析的外部符号 __imp__PyImport_ImportModule
+main.obj : error LNK2001: 无法解析的外部符号 __imp__Py_BuildValue
+main.obj : error LNK2001: 无法解析的外部符号 __imp__PyTuple_New
+main.obj : error LNK2001: 无法解析的外部符号 __imp__PyList_Size
+main.obj : error LNK2001: 无法解析的外部符号 __imp__Py_Initialize
+main.obj : error LNK2001: 无法解析的外部符号 __imp__PyArg_Parse
+main.obj : error LNK2001: 无法解析的外部符号 __imp__PyList_New
+main.obj : error LNK2001: 无法解析的外部符号 __imp__PyRun_SimpleStringFlags
+main.obj : error LNK2001: 无法解析的外部符号 __imp__Py_IsInitialized
+main.obj : error LNK2001: 无法解析的外部符号 __imp__PyObject_GetAttrString
+main.obj : error LNK2001: 无法解析的外部符号 __imp__PyList_GetItem
+main.obj : error LNK2001: 无法解析的外部符号 __imp__PyTuple_SetItem
+main.obj : error LNK2001: 无法解析的外部符号 __imp__PyEval_CallObjectWithKeywords
+H:\vvencDLv2\deepLearning\simpleTest\test\Release\test.exe : fatal error LNK1120: 13 个无法解析的外部命令
